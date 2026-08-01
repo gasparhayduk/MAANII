@@ -1,0 +1,4 @@
+*.icloud
+.DS_Store
+.Rhistory
+.Rapp.history
